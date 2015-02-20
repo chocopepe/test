@@ -6,3 +6,4 @@ This is a test repo for basic git commands.
 * commit
 * push
 * pull
+* rm
