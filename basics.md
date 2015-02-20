@@ -1,6 +1,6 @@
 ## Clone
 Supposing that you want to clone a remote repo named 'test' down to your local repo.
-
+```
 $ pwd
 /Users/monyohm
 $ mkdir repo        # You will clone a remote repo down to this directory.
@@ -14,4 +14,5 @@ Unpacking objects: 100% (89/89), done.
 Checking connectivity... done.
 $ ls                # Now 'repo' directory has a cloned 'test' directory.
 test
+```
 
