@@ -2,12 +2,12 @@
 ----------
 This is a test repo for basic git commands.
 * clone:<br>
-clones a remote repo (a repo on GitHub) down to your local repo.
+clones a remote repo on GitHub down to your local repo.
 * add:<br>
 makes the local repo 'staged', in other words, tells Git the file it needs to track.
 * commit:<br>
-  saves the edited repo as an intermediate version
+saves the edited repo as an intermediate version.
 * push:<br>
-  publishes your local commits and updates the remote
+publishes your local commits and updates the remote.
 * pull
 * rm
