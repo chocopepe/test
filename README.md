@@ -1,6 +1,6 @@
 ### Test
 ----------
-This is a test repo for basic git commands.
+This is a test repository for basic git commands.
 * clone:<br>
 clones a remote repo on GitHub down to your local repo.
 * add:<br>
