@@ -1,9 +1,9 @@
 ## Clone
-Supposing that you want to clone a remote repo named 'test' down to your local repo named 'repo'.
+Cloning a remote repo named 'test' down to your local repo named 'repo'.
 ```
 $ pwd
 /Users/monyohm
-$ mkdir repo        # You will clone a remote repo down to this directory.
+$ mkdir repo
 $ cd repo
 $ git clone https://github.com/chocopepe/test.git
 Cloning into 'test'...
@@ -15,4 +15,14 @@ Checking connectivity... done.
 $ ls                # Now 'repo' directory has a cloned 'test' directory.
 test
 ```
+Checking the cloned repo.
+```
+$ pwd
+/Users/monyohm/repo/test
+$ ls -a
+.    ..    .DS_Store    .git    README.md
+```
+Editting that.
+
+
 
