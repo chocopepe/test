@@ -1,5 +1,5 @@
 ## Clone
-Supposing that you want to clone a remote repo named 'test' down to your local repo.
+Supposing that you want to clone a remote repo named 'test' down to your local repo named 'repo'.
 ```
 $ pwd
 /Users/monyohm
